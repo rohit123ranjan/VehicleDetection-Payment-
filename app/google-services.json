@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "731359305289",
+    "firebase_url": "https://vehiclepayment-453be.firebaseio.com",
+    "project_id": "vehiclepayment-453be",
+    "storage_bucket": "vehiclepayment-453be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731359305289:android:d10c8427040ad33f",
+        "android_client_info": {
+          "package_name": "com.example.rohitranjan.vehiclepayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731359305289-1qan4gkavk25oeaqg8qi35ujdt0gegno.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rohitranjan.vehiclepayment",
+            "certificate_hash": "8ac585769139f968bfc1b875c9f77ca52a715185"
+          }
+        },
+        {
+          "client_id": "731359305289-1s9nfbd8nnnu0rrvtksua2sg3e83kc9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7wWN1_gL6Uo3yvl7M-UKgso-np53GW4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731359305289-1s9nfbd8nnnu0rrvtksua2sg3e83kc9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
